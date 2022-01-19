@@ -9,7 +9,7 @@
 
 Technology enthusiast. Continuous learner. Interested in automation, security, reliability, and scalability.
 
-#### Proficient with:
+### Proficient with:
 
 ![Ansible](https://img.shields.io/badge/Ansible-blue?style=for-the-badge)
 ![Terraform](https://img.shields.io/badge/Terraform-blue?style=for-the-badge)
@@ -26,7 +26,7 @@ Technology enthusiast. Continuous learner. Interested in automation, security, r
 ![Debian/Ubuntu](https://img.shields.io/badge/Debian/Ubuntu-blue?style=for-the-badge)
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-blue?style=for-the-badge)
 
-#### Currently learning:
+### Currently learning:
 
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-blue?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge)

@@ -16,11 +16,11 @@ Technology enthusiast. Continuous learner. Interested in automation, security, r
 ![Containers](https://img.shields.io/badge/Containers-blue?style=for-the-badge)
 ![Virtualization](https://img.shields.io/badge/Virtualization-blue?style=for-the-badge)
 ![LDAP](https://img.shields.io/badge/LDAP-blue?style=for-the-badge)
-![PKI](https://img.shields.io/badge/PKI-blue?style=for-the-badge)
 ![Databases](https://img.shields.io/badge/Databases-blue?style=for-the-badge)
-![Storage](https://img.shields.io/badge/Storage-blue?style=for-the-badge)
 ![Networking](https://img.shields.io/badge/Networking-blue?style=for-the-badge)
+![PKI](https://img.shields.io/badge/PKI-blue?style=for-the-badge)
 ![Shell Scripting](https://img.shields.io/badge/Shell_Scripting-blue?style=for-the-badge)
+![Storage](https://img.shields.io/badge/Storage-blue?style=for-the-badge)
 
 ![Red Hat Enterprise Linux](https://img.shields.io/badge/Red_Hat_Enterprise_Linux-blue?style=for-the-badge)
 ![Debian/Ubuntu](https://img.shields.io/badge/Debian/Ubuntu-blue?style=for-the-badge)

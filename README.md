@@ -9,7 +9,7 @@
 
 Technology enthusiast. Continuous learner. Interested in automation, security, reliability, and scalability.
 
-### Proficient with:
+### Comfortable with:
 
 ![Ansible](https://img.shields.io/badge/Ansible-blue?style=for-the-badge)
 ![Terraform](https://img.shields.io/badge/Terraform-blue?style=for-the-badge)
